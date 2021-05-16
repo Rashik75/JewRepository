@@ -3,5 +3,5 @@
 using namespace std;
 
 void playing() {
-	cout << " I zatem igraetsa s balls.";
+	cout << " I zatem igraetsa s myachom.";
 }
